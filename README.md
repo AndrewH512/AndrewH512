@@ -1,8 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew! <br/><a href=https://github.com/AndrewH512">Programmer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Foxswap - Web App (NodeJS, Express, and SQL)</b>
+  - [Web App](https://github.com/AndrewH512/Foxswap) </i>
+  
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/andrew-hennessy-ab02072b2/
 
 <!--
-**AndrewH512/AndrewH512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
