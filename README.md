@@ -9,10 +9,11 @@
 - <b>2D Platformer (Godot)</b>
   - [Escape The Nightmare](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/Godot/Escape%20The%20Nightmare) </i>
   
-<!--<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
+[<img align="left" alt="Andrew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/andrew-hennessy-ab02072b2/
--->
+
 <!--
 Here are some ideas to get you started:
 
