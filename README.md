@@ -9,6 +9,11 @@
   - [6502 Assembler](https://github.com/AndrewH512/Virtual-6502-Assembler) </i>
 - <b>2D Platformer (Godot)</b>
   - [Escape The Nightmare](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/Godot/Escape%20The%20Nightmare) </i>
+- <b>C++ Games</b>
+  - [Pong Soccer](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/C%2B%2B/Pong%20Soccer) </i>
+  - [Apple Dodge](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/C%2B%2B/Timber%20Clone) </i>
+  - [Tom and Kevin are Late](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/C%2B%2B/Tom%20and%20Kevin%20was%20Late) </i>
+  - [Zombie Area Clone](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/C%2B%2B/Zombie%20Area%20Clone) </i>
   
 <!--
 Here are some ideas to get you started:
