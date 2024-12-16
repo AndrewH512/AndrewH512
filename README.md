@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andrew! <br/>
-<a href=https://github.com/AndrewH512">Programmer</a>
+
 <p> I'm a recent college graduate from Marist who loves to code and build software solutions. Below are some of my software development projects:</p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
