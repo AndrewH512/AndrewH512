@@ -1,4 +1,5 @@
-<h1>Hi, I'm Andrew! <br/><a href=https://github.com/AndrewH512">Programmer</a>
+<h1>Hi, I'm Andrew! <br/>
+<a href=https://github.com/AndrewH512">Programmer</a>
 <p> I'm a recent college graduate from Marist who loves to code and build software solutions. Below are some of my software development projects:</p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -9,10 +10,6 @@
 - <b>2D Platformer (Godot)</b>
   - [Escape The Nightmare](https://github.com/AndrewH512/Projects/tree/main/Game%20Design%20Projects/Godot/Escape%20The%20Nightmare) </i>
   
-<h2> Connect with me:</h2>
-
-[linkedin]: https://www.linkedin.com/in/andrew-hennessy-ab02072b2/
-
 <!--
 Here are some ideas to get you started:
 
